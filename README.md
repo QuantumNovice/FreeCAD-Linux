@@ -1,5 +1,9 @@
 # EngineeringLinux
 
+# Important Paths
+/run/initramfs/memory/data/slax
+cat somewallpaper.jpg > /usr/share/wallpapers/slax_wallpaper.jpg
+
 Version 0.01
 =============
 Linux Kernel + FreeCAD 0.16 + Slax ==> FreeCAD Slax (Stable)
