@@ -8,7 +8,7 @@ Preinstalled:
 
 How to Install:
 ===============
-Systems that support boot from USB:
+For systems that support boot from USB:
 ------------------------------------
 * Extract the zip to usb drive.
 * Goto slack/boot and run bootinit.bat from the extracted files in usb.
