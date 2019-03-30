@@ -2,9 +2,18 @@
 
 How to Install:
 ===============
+Systems that support boot from USB:
+------------------------------------
 * Extract the zip to usb drive.
 * Goto slack/boot and run bootinit.bat from the extracted files in usb.
 * You are set to go.
+
+Systems that don't support boot from USB:
+-----------------------------------------
+* Download WinSetupFromUSB from http://www.winsetupfromusb.com/downloads/
+* Plug in usb.
+* Select the provided iso.
+* Burn it to USB.
 
 How to Boot:
 ============
@@ -24,11 +33,17 @@ Test 1:
 
 Test 2:
 -------
-Linux Kernel + FreeCAD 0.17 + Slax ==> FreeCAD Slax (Unstable)
+Linux Kernel + FreeCAD 0.17 + Slax ==> Unstable
 
 Test 3:
 -------
-Linux Kernel + FreeCAD 0.18 + Slax ==> FreeCAD Slax (Unstable)
+Linux Kernel + FreeCAD 0.18 + Slax ==> Unstable
+
+Test 4:
+-------
+ParrotOS (Debian Buster): + FreeCAD 0.18 ==> Very Stable
+This version is much faster but occupies more space.
+
 
 
 # Important Paths
