@@ -1,5 +1,10 @@
 # FreeCAD Linux
 
+Custom built minimalistic linux distro built directly from linux-kernel (slax) to run FreeCAD 0.16.
+Preinstalled:
+* Addon Manager
+* BIM Workbench
+
 How to Install:
 ===============
 Systems that support boot from USB:
@@ -8,12 +13,6 @@ Systems that support boot from USB:
 * Goto slack/boot and run bootinit.bat from the extracted files in usb.
 * You are set to go.
 
-Systems that don't support boot from USB:
------------------------------------------
-* Download WinSetupFromUSB from http://www.winsetupfromusb.com/downloads/
-* Plug in usb.
-* Select the provided iso.
-* Burn it to USB.
 
 How to Boot:
 ============
@@ -48,4 +47,5 @@ This version is much faster but occupies more space.
 
 # Important Paths
 * /run/initramfs/memory/data/slax
+* /usr/share/freecad/Mods
 * cat somewallpaper.jpg > /usr/share/wallpapers/slax_wallpaper.jpg
