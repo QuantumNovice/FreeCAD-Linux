@@ -1,4 +1,4 @@
-# EngineeringLinux
+# FreeCAD Linux
 
 How to Install:
 ===============
@@ -14,17 +14,18 @@ How to Boot:
 * Wait and you are ready to go.
 
 
-Version 0.01
+Version 0.01 
 =============
+(Current Version)
 Linux Kernel + FreeCAD 0.16 + Slax ==> FreeCAD Slax (Stable)
 
 Version 0.02
 =============
-Linux Kernel + FreeCAD 0.17 + Slax ==> FreeCAD Slax (Stable)
+Linux Kernel + FreeCAD 0.17 + Slax ==> FreeCAD Slax (Unstable)
 
 Version 0.03
 =============
-Linux Kernel + FreeCAD 0.18 + Slax ==> FreeCAD Slax (Alpha)
+Linux Kernel + FreeCAD 0.18 + Slax ==> FreeCAD Slax (Unstable)
 
 
 # Important Paths
