@@ -2,6 +2,7 @@
 
 Custom built minimalistic linux distro built directly from linux-kernel (slax) to run FreeCAD 0.16.
 Preinstalled:
+-------------
 * Addon Manager
 * BIM Workbench
 
