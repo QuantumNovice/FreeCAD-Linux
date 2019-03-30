@@ -10,10 +10,19 @@ How to Install:
 ===============
 For systems that support boot from USB:
 ------------------------------------
-* Extract the zip to usb drive.
-* Goto slack/boot and run bootinit.bat from the extracted files in usb.
+Windows:
+--------
+* Download freecad_slax.7z from https://drive.google.com/open?id=1bTcwSm1KC2Eyl4xn5GH1_5915Oy9s7_o with 7zip.
+* Extract the contents zip to USB drive.
+* Goto slack/boot folder and run bootinit.bat from the extracted files in usb.
 * You are set to go.
 
+Linux:
+--------
+* Download freecad_slax.7z from https://drive.google.com/open?id=1bTcwSm1KC2Eyl4xn5GH1_5915Oy9s7_o with 7zip.
+* Extract the contents zip to USB drive.
+* Goto slack/boot folder and run bootinit.sh from the extracted files in usb.
+* You are set to go.
 
 How to Boot:
 ============
@@ -22,7 +31,7 @@ How to Boot:
 * Select boot from USB.
 * Wait and you are ready to go.
 
-Testing Info:
+Testing Log:
 =============
 Test 1:
 -------
